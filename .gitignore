@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Windows
+Thumbs.db
+Thumbs.db.meta
+
+# VS Code
+*.vscode
